@@ -8,10 +8,5 @@
             "name": "abbu sofyan",
             "email": "sofyanutama1@gmail.com"
         }
-    ],
-    "minimum-stability": "stable",
-    "autoload": {
-         "psr-4": {"abbu\\HelloWorld\\": "src/"}
-    },
-    "require": {}
+    ]
 }
